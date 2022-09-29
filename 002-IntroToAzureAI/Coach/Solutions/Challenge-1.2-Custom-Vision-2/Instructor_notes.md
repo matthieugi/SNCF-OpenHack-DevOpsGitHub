@@ -1,1 +1,0 @@
-Please refer to the instructor notes in challenge1.2-customvision01

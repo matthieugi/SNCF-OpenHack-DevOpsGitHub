@@ -1,3 +1,0 @@
-variables:
-  artifactName: mlops-arima
-  serviceConnectionName: rg-mlops-ussc-demo

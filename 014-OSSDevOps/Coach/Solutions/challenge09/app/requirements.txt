@@ -1,3 +1,0 @@
-prometheus_flask_exporter
-Flask==1.0
-nose2==0.9.1
