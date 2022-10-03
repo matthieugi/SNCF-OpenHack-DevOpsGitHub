@@ -11,7 +11,7 @@
             "type": "String"
         },
         "appInsightsLocation": {
-            "defaultValue": "South Central US",
+            "defaultValue": "West Europe",
             "type": "String"
         },
         "appInsightsName": {
@@ -31,7 +31,7 @@
             "type":"String"
         },
         "registryLocation": {
-            "defaultValue": "South Central US",
+            "defaultValue": "West Europe",
             "type": "String"
         },
         "registrySku": {

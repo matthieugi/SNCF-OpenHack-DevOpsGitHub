@@ -13,6 +13,8 @@ This DevOps with GitHub hack will help you learn:
 1. Monitoring apps with Application Insights
 
 ## Challenges
+![GitHub Steps to DevOps](assets/images/github_wheel.png)
+
  - [Challenge 0](./Student/challenge00.md) - Setup and Introduction
  - [Challenge 1](./Student/challenge01.md) - Track your work with GitHub Project Boards
  - [Challenge 2](./Student/challenge02.md) - Centralize your code with GitHub Repos
@@ -24,6 +26,10 @@ This DevOps with GitHub hack will help you learn:
  - [Challenge 8](./Student/challenge08.md) - Monitoring: Application Insights
  - [Challenge 9](./Student/challenge09.md) - Security
 
+
+## Target Architecture
+
+![Architecture](assets/images/DevOpsWithGithubEnvironment.png)
 
 ## Prerequisites
 - Your own Azure subscription with **owner** access. See considerations below for additional guidance.
